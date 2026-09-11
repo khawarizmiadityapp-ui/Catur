@@ -55,3 +55,4 @@ com.example.chessgame/
 - Riwayat langkah notasi algebraik (LazyColumn)
 - New Game
 "# catur" 
+"# Catur" 
